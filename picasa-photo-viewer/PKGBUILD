@@ -5,7 +5,7 @@ pkgver=1.0.3
 pkgrel=6
 pkgdesc="Use Picasa as a Photo Viewer Application"
 arch=('any')
-#url="http://www.caiacoa.de/wiki/index.php/Picasa_Photo_Viewer_(Linux_port)_for_Ubuntu"
+url="http://www.humbug.in/2012/using-picasa-as-a-photo-viewer-in-arch-linux/"
 license=('GPL')
 depends=('picasa')
 provides=("picasa-photo-viewer=${pkgver}")
